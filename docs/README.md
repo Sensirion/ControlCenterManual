@@ -775,4 +775,207 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 
 # Appendix
 
+## ControlCenter Releases & Changelog
+
+### Version 1.37
+
+#### Changelog
+Internal changes and bugfixes
+
+#### Links:
+- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.37.0.exe) 
+- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.37.0.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.37.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.37.0.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.37.0.zip) 
+
+#### Links China:
+
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.37.0.exe) 
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.37.0.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-18.04_1.37.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.37.0.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.37.0.zip) 
+
+
+### Version 1.36
+
+#### Changelog
+Features
+- Allow users to provide feedback for ControlCenter
+- Support for SDP33
+- Show single data point for plots on hover (only when measurement is stopped)
+- Plot configuration is persisted
+- Add plot grid to ControlCenter
+
+Bugfixes
+- ControlCenter for Ubuntu 22.04 runs without installing additional packages
+- Fix issue with multiple flow sensors attached
+
+#### Links:
+- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.36.0.exe) 
+- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.36.0.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.36.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.36.0.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.36.0.zip) 
+
+#### Links China:
+
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.36.0.exe) 
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.36.0.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-18.04_1.36.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.36.0.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.36.0.zip) 
+
+### Version 1.35.1
+> [!NOTE]
+>
+> For ControlCenter and DataViewer version 1.35.x you need to install following linux packages: _apt install libqt6quickwidgets6 libqt6uitools6_
+
+
+#### Changelog
+Features
+
+- Add support for Ubuntu 22.04 LTS
+- Add support for SFM3304 with Nicolay Cable
+
+Bugfixes
+- Fix issue with bold fonts not correctly showing on some Windows and OSX computers
+- Fix issue of SCD4x settings not updated in view after factory update
+
+#### Links:
+- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.35.1.exe) 
+- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.35.1.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.35.1.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.35.1.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.35.1.zip) 
+
+#### Links China:
+
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.35.1.exe) 
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.35.1.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-18.04_1.35.1.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.35.1.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.35.1.zip) 
+
+### Version 1.34
+
+#### Changelog
+Features
+
+- Improved ControlCenter App Menu for better navigation
+- Added the ability to persistently change - - Plot line thickness in ControlCenter settings
+- Visual improvements on fonts for ControlCenter and DataViewer
+- Improved the data management for DataViewer
+- Added group operation support for DataViewer such as:
+  - remove all
+  - show/hide all
+  - highlight/unhighlight all
+
+Bugfixes
+- Fix issue when device is lost, entries are duplicated
+- Fix crash on Ubuntu when SensorBridge with new PID/VID is connected for the first time
+
+#### Links:
+- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.34.0.exe) 
+- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.34.0.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.34.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.34.0.zip) 
+
+#### Links China:
+
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.34.0.exe) 
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.34.0.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-18.04_1.34.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.34.0.zip) 
+
+### Version 1.33.1
+
+#### Changelog
+Features
+
+- Add Support for SFM4300-50 product line
+- Improved tooltips in the sensor configuration window
+- UI and Plot Improvements in DataViewer
+  - Improve legends
+  - Replace Sensor by Data tab
+- Only supported I2C frequencies can be selected in device configuration for ControlCenter
+
+Bugfixes
+- Fix read-out of serial number for SDP products
+- Probing for Nicolay cable
+- Do no show disconnect warning on firmware update
+- Consistent tabs between ControlCenter and DataViewer
+
+#### Links:
+- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.33.1.exe) 
+- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.33.1.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.33.1.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.33.1.zip) 
+
+#### Links China:
+
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.33.1.exe) 
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.33.1.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-18.04_1.33.1.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.33.1.zip) 
+
+### Version 1.32.1
+
+#### Changelog
+Features:
+
+- Add signal units on DataViewer plots
+- Support persistence of algorithm parameters in DataViewer
+- Make DataViewer plots not consistent with ControlCenter
+
+Bugfixes
+- Fix zoom and resize issues in DataViewer
+- Increase supported accuracy for plot auto-scale to 4 digits
+- Fix double validator in sensor settings broken with German language settings
+- Fix SFM4100 insufficient probing issue. This caused several SFM4100 products to show up when a defective sensor is connected
+- Fix Nicolay cable not always detected on OSX and Linux
+
+#### Links:
+- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.32.1.exe) 
+- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.32.1.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.32.1.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.32.1.zip) 
+
+#### Links China:
+
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.32.1.exe) 
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.32.1.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-18.04_1.32.1.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.32.1.zip) 
+
+### Version 1.31.1
+
+#### Changelog
+Features:
+- SEN5x Firmware 1.0 support with all VOC, NOx and RH/T engine parameters
+- Add support for all SDP31 and SDP8x products and I2C addresses
+- Add support for SGD41 in ControlCenter
+- Support SLF3S-4000B
+- SVM41 startup-spinner and improved firmware upgrade
+
+Bugfixes:
+- DataViewer VOC/NOx algorithm tuning support
+- Keep zoom level on add algorithm or data
+- Keep signals hidden when adding algorithm
+- Fix reset timeline button
+
+#### Links:
+- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.31.1.exe) 
+- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.31.1.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.31.1.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.31.1.zip) 
+
+#### Links China:
+
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.31.1.exe) 
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.31.1.zip) 
+- [Ubuntu Linux 18.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-18.04_1.31.1.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.31.1.zip) 
+
 ## SEK Part Numbers
