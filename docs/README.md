@@ -100,6 +100,8 @@ The following Sensor Models are supported by the latest Software release:
 |                        | SDP31     | Yes                   |         |
 |                        | SDP8xx    | Yes                   |         |
 | Gas flow               |           |                       |         |
+|                        | SFM6xxx   | Yes                   |         |
+|                        | SFC6xxx   | Yes                   |         |
 |                        | SFM3000   | Yes                   |         |
 |                        | SFM3003   | Yes                   |         |
 |                        | SFM3019   | Yes                   |         |
