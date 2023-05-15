@@ -53,7 +53,7 @@ For optimal usage the minimum recommended system requirements are the following:
 
 - Linux:
 
-  - Ubuntu 18.04
+  - Ubuntu 18.04 (Up until version 1.37.0, Version 1.38.0 drops support)
   - Ubuntu 20.048
   - Ubuntu 22.04 (First supported ControlCenter version is 1.35.1, **older** releases do not support this OS version)
 
@@ -778,6 +778,31 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 # Appendix
 
 ## ControlCenter Releases & Changelog
+
+### Version 1.38
+
+#### Changelog
+Major Changes
+- Drop support for Ubuntu 18.04
+Features
+- Support alternative sampling frequencies for VOC algorithms in DataViewer
+- Add alert simulation feature for SHT3x
+
+Bugfixes
+- Fix menu opens on wrong display
+
+#### Links:
+- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.38.0.exe) 
+- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.38.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.38.0.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.38.0.zip) 
+
+#### Links China:
+
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.38.0.exe) 
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.38.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.38.0.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.38.0.zip)
 
 ### Version 1.37
 
