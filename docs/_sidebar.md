@@ -1,2 +1,2 @@
 <!-- docs/_sidebar.md -->
-* [Home](/)
+* [ControlCenter Manual](/)
