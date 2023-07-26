@@ -119,8 +119,11 @@ The following Sensor Models are supported by the latest Software release:
 | Thermal Conductivity   |           |                       |         |
 |                        | STC31     | Yes                   |         |
 | Liquid Flow            |           |                       |         |
-|                        | SLF3S     | No                    |         |
-|                        | LD20      | No                    |         |
+|                        | SLF3S-1300     | No                    |         |
+|                        | SLF3S-600     | No                    |         |
+|                        | SLF3S-4000B     | No                    |         |
+|                        | SLF3C-1300F     | No                    |         |
+|                        | LD20-0600L| No                    |         |
 | Modules                |           |                       |         |
 |                        | SVM3x     | No                    |         |
 |                        | SEN4x     | Yes                   |         |
