@@ -201,7 +201,11 @@ After installation, ControlCenter can be launched through the applications folde
 
 The ControlCenter package for Ubuntu comes with a ready to run application. Simply extract the contents of the compressed folder after download and double click on the ControlCenter executable.
 
-Please note that for Ubuntu Linux 22.04 and ControlCenter and DataViewer version 1.35.x you need to install following linux packages: _apt install libqt6quickwidgets6 libqt6uitools6_
+> [!NOTE]
+>
+> - To have access on the Serial devices over USB, the Ubuntu user needs to be added in the Dialout group. An example command is: _sudo adduser name_of_user dialout_ 
+>
+> - For Ubuntu Linux 22.04 and ControlCenter and DataViewer version 1.35.x you need to install following linux packages: _apt install libqt6quickwidgets6 libqt6uitools6_
 
 ## Connecting a Sensor Evaluation Kit
 
