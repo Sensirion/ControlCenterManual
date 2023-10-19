@@ -86,6 +86,7 @@ The following Sensor Models are supported by the latest Software release:
 |                        | STS4x     | Yes                   |         |
 |                        | SHT85     | Yes                   |         |
 |                        | SHT4x     | Yes                   |         |
+|                        | SHT4xIA     | Yes                   |         |
 | MOX Gas Sensors        |           |                       |         |
 |                        | SGP40     | Yes                   |         |
 |                        | SGP41     | Yes                   |         |
@@ -124,6 +125,8 @@ The following Sensor Models are supported by the latest Software release:
 |                        | SLF3S-4000B     | No                    |         |
 |                        | SLF3C-1300F     | No                    |         |
 |                        | LD20-2600B| No                    |         |
+|                        | LD20-0600L| No                    |         |
+|                        | SWT50i| No                    |         |
 | Modules                |           |                       |         |
 |                        | SVM3x     | No                    |         |
 |                        | SEN4x     | Yes                   |         |
@@ -562,6 +565,7 @@ settings can be found. Here you can:
   one single file.
 - Change the temperature between Celsius and Fahrenheit degrees
 - Adjust the Plotting line thickness
+- Set your preferences regarding update notifications. You can choose between no notification updates, only major versions (default) or all versions.
 
 ![](attachments/278673337/284039407.jpg ":size=40%")
 
@@ -785,6 +789,31 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 # Appendix
 
 ## ControlCenter Releases & Changelog
+
+### Version 1.40
+
+#### Changelog
+Features
+- Add support for liquid flow sensor LD20-0600L
+- Issue reporting is done through a dedicated ticket system 
+- Full ControlCenter Support for SWT50i 
+- Users can now select whether they want to get notification updates for every ControlCenter release
+
+Bugfixes
+- Fix an issue with ControlCenter update notification service
+
+#### Links:
+- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.40.0.exe) 
+- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.40.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.40.0.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.40.0.zip) 
+
+#### Links China:
+
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.40.0.exe) 
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.40.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.40.0.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.40.0.zip)
 
 ### Version 1.39
 
