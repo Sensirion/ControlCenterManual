@@ -105,6 +105,7 @@ The following Sensor Models are supported by the latest Software release:
 |                        | SFC6xxx   | No                    |         |
 |                        | SFM3000   | Yes                   |         |
 |                        | SFM3003   | Yes                   |         |
+|                        | SFM3013   | Yes                   |         |
 |                        | SFM3019   | Yes                   |         |
 |                        | SFM3119   | Yes                   |         |
 |                        | SFM3200   | Yes                   |         |
@@ -789,6 +790,32 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 # Appendix
 
 ## ControlCenter Releases & Changelog
+
+### Version 1.41
+
+#### Changelog
+Features
+- Add support for SFM3013
+- Add support for STC31-C
+
+Bugfixes
+- Fix SFC6xxx configuration inputs not being sanity checked
+- Fix high refresh rate flow sensor measurement slowing ControlCenter down on refresh
+- Fix disconnected sensors not being detected properly
+- Fix STC3x sensor settings not persisted
+
+#### Links:
+- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.41.0.exe) 
+- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.41.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.41.0.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.41.0.zip) 
+
+#### Links China:
+
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.41.0.exe) 
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.41.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.41.0.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.41.0.zip)
 
 ### Version 1.40
 
