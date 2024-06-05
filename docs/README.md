@@ -121,13 +121,15 @@ The following Sensor Models are supported by the latest Software release:
 | Thermal Conductivity   |           |                       |         |
 |                        | STC31     | Yes                   |         |
 | Liquid Flow            |           |                       |         |
-|                        | SLF3S-1300     | No                    |         |
-|                        | SLF3S-600     | No                    |         |
-|                        | SLF3S-4000B     | No                    |         |
-|                        | SLF3C-1300F     | No                    |         |
+|                        | SLF3S-1300    | No                |         |
+|                        | SLF3S-1300D   | No                |         |
+|                        | SLF3S-600     | No                |         |
+|                        | SLF3S-600D    | No                |         |
+|                        | SLF3S-4000B   | No                |         |
+|                        | SLF3C-1300F   | No                |         |
 |                        | LD20-2600B| No                    |         |
 |                        | LD20-0600L| No                    |         |
-|                        | SWT50i| No                    |         |
+|                        | SWT50i    | No                    |         |
 | Modules                |           |                       |         |
 |                        | SVM3x     | No                    |         |
 |                        | SEN4x     | Yes                   |         |
@@ -791,6 +793,30 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 
 ## ControlCenter Releases & Changelog
 
+### Version 1.42
+
+#### Changelog
+
+Features
+- Support for SLF3S-1300D, SLF3S-600D
+
+Bugfixes
+- Fix crash on SGP4x settings
+- Fix disconnection of SHT4xA when heater is enabled
+- Fix Setpoint setting for SFC6xxx when locale is DE
+
+#### Links:
+- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.42.0.exe) 
+- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.42.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.42.0.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.42.0.zip) 
+
+#### Links China:
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.42.0.exe) 
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.42.0.zip) 
+- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.42.0.zip) 
+- [Ubuntu Linux 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.42.0.zip)
+  
 ### Version 1.41
 
 #### Changelog
