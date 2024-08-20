@@ -797,7 +797,13 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 
 #### Changelog
 
-TODO
+Features
+- Add support for SEN66
+- Remove feedback pop-up
+
+Bugfixes
+- Fix crash when removing signals from plot
+- Fix crash with STC3x when humidity is negative
 
 #### Links:
 - [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.43.0.exe)
