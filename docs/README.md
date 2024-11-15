@@ -86,7 +86,7 @@ The following Sensor Models are supported by the latest Software release:
 |                        | STS4x     | Yes                   |         |
 |                        | SHT85     | Yes                   |         |
 |                        | SHT4x     | Yes                   |         |
-|                        | SHT4xIA     | Yes                   |         |
+|                        | SHT4xIA   | Yes                   |         |
 | MOX Gas Sensors        |           |                       |         |
 |                        | SGP40     | Yes                   |         |
 |                        | SGP41     | Yes                   |         |
@@ -97,6 +97,7 @@ The following Sensor Models are supported by the latest Software release:
 | CO2                    |           |                       |         |
 |                        | SCD3x     | Yes                   |         |
 |                        | SCD4x     | Yes                   |         |
+|                        | STCC4     | Yes                   |         |
 | Differential pressure  |           |                       |         |
 |                        | SDP31     | Yes                   |         |
 |                        | SDP8xx    | Yes                   |         |
@@ -127,13 +128,16 @@ The following Sensor Models are supported by the latest Software release:
 |                        | SLF3S-600D    | No                |         |
 |                        | SLF3S-4000B   | No                |         |
 |                        | SLF3C-1300F   | No                |         |
-|                        | LD20-2600B| No                    |         |
-|                        | LD20-0600L| No                    |         |
+|                        | LD20-2600B    | No                |         |
+|                        | LD20-0600L    | No                |         |
+|                        | SLD3P-0400DM  | No                |         |
 |                        | SWT50i    | No                    |         |
 | Modules                |           |                       |         |
 |                        | SVM3x     | No                    |         |
 |                        | SEN4x     | Yes                   |         |
 |                        | SEN5x     | Yes                   |         |
+|                        | SEN66     | Yes                   |         |
+|                        | SEN68     | Yes                   |         |
 |                        | SVM4x     | No                    |         |
 
 ## Required Hardware
@@ -792,6 +796,33 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 # Appendix
 
 ## ControlCenter Releases & Changelog
+
+### Version 1.44
+
+#### Changelog
+
+Features
+- Add Support for SGD43s refrigerant leakage detection system
+- Add support for STCC4 CO2 sensor
+- Add support for SLD3P liquid flow sensor
+- Add support for SEN68
+- Add VOC/NOx and RH/T compensation options for SEN66
+
+Bugfixes
+- Fix issue with detecting SHT3x if they already respond at lower voltages than expected.
+
+#### Links:
+- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.44.0.exe)
+- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.44.0.zip)
+- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.44.0.zip)
+- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.44.0.zip)
+
+#### Links China:
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.44.0.exe)
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.44.0.zip)
+- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.44.0.zip)
+- [Ubuntu Linux 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.44.0.zip)
+
 
 ### Version 1.43
 
