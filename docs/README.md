@@ -812,10 +812,10 @@ Bugfixes
 - Fix issue with detecting SHT3x if they already respond at lower voltages than expected.
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.44.0.exe)
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.44.0.zip)
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.44.0.zip)
-- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.44.0.zip)
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.44.0.exe)
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.44.0.zip)
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.44.0.zip)
+- [Ubuntu Linux 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.44.0.zip)
 
 #### Links China:
 - [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.44.0.exe)
@@ -837,10 +837,10 @@ Bugfixes
 - Fix crash with STC3x when humidity is negative
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.43.0.exe)
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.43.0.zip)
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.43.0.zip)
-- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.43.0.zip)
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.43.0.exe)
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.43.0.zip)
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.43.0.zip)
+- [Ubuntu Linux 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.43.0.zip)
 
 #### Links China:
 - [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.43.0.exe)
@@ -861,10 +861,10 @@ Bugfixes
 - Fix Setpoint setting for SFC6xxx when locale is DE
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.42.0.exe) 
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.42.0.zip) 
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.42.0.zip) 
-- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.42.0.zip) 
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.42.0.exe) 
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.42.0.zip) 
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.42.0.zip) 
+- [Ubuntu Linux 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.42.0.zip) 
 
 #### Links China:
 - [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.42.0.exe) 
@@ -886,10 +886,10 @@ Bugfixes
 - Fix STC3x sensor settings not persisted
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.41.0.exe) 
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.41.0.zip) 
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.41.0.zip) 
-- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.41.0.zip) 
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.41.0.exe) 
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.41.0.zip) 
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.41.0.zip) 
+- [Ubuntu Linux 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.41.0.zip) 
 
 #### Links China:
 
@@ -912,10 +912,10 @@ Bugfixes
 - Fix SFA3x shows values as ppm instead of ppb
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.40.2.exe) 
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.40.2.zip) 
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.40.2.zip) 
-- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.40.2.zip) 
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.40.2.exe) 
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.40.2.zip) 
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.40.2.zip) 
+- [Ubuntu Linux 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.40.2.zip) 
 
 #### Links China:
 
@@ -935,10 +935,10 @@ Bugfixes
 - Small fixes and improvements
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.39.1.exe)
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.39.1.zip)
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.39.1.zip)
-- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.39.1.zip)
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.39.1.exe)
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.39.1.zip)
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.39.1.zip)
+- [Ubuntu Linux 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.39.1.zip)
 
 #### Links China:
 
@@ -961,10 +961,10 @@ Bugfixes
 - Fix menu opens on wrong display
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.38.0.exe) 
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.38.0.zip) 
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.38.0.zip) 
-- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.38.0.zip) 
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.38.0.exe) 
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.38.0.zip) 
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.38.0.zip) 
+- [Ubuntu Linux 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.38.0.zip) 
 
 #### Links China:
 
@@ -979,11 +979,11 @@ Bugfixes
 Internal changes and bugfixes
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.37.0.exe) 
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.37.0.zip) 
-- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.37.0.zip) 
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.37.0.zip) 
-- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.37.0.zip) 
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.37.0.exe) 
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.37.0.zip) 
+- [Ubuntu Linux 18.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-18.04_1.37.0.zip) 
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.37.0.zip) 
+- [Ubuntu Linux 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.37.0.zip) 
 
 #### Links China:
 
@@ -1009,11 +1009,11 @@ Bugfixes
 - Fix issue with multiple flow sensors attached
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.36.0.exe) 
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.36.0.zip) 
-- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.36.0.zip) 
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.36.0.zip) 
-- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.36.0.zip) 
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.36.0.exe) 
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.36.0.zip) 
+- [Ubuntu Linux 18.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-18.04_1.36.0.zip) 
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.36.0.zip) 
+- [Ubuntu Linux 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.36.0.zip) 
 
 #### Links China:
 
@@ -1040,11 +1040,11 @@ Bugfixes
 - Fix issue of SCD4x settings not updated in view after factory update
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.35.1.exe) 
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.35.1.zip) 
-- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.35.1.zip) 
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.35.1.zip) 
-- [Ubuntu Linux 22.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-22.04_1.35.1.zip) 
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.35.1.exe) 
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.35.1.zip) 
+- [Ubuntu Linux 18.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-18.04_1.35.1.zip) 
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.35.1.zip) 
+- [Ubuntu Linux 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.35.1.zip) 
 
 #### Links China:
 
@@ -1073,10 +1073,10 @@ Bugfixes
 - Fix crash on Ubuntu when SensorBridge with new PID/VID is connected for the first time
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.34.0.exe) 
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.34.0.zip) 
-- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.34.0.zip) 
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.34.0.zip) 
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.34.0.exe) 
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.34.0.zip) 
+- [Ubuntu Linux 18.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-18.04_1.34.0.zip) 
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.34.0.zip) 
 
 #### Links China:
 
@@ -1104,10 +1104,10 @@ Bugfixes
 - Consistent tabs between ControlCenter and DataViewer
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.33.1.exe) 
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.33.1.zip) 
-- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.33.1.zip) 
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.33.1.zip) 
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.33.1.exe) 
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.33.1.zip) 
+- [Ubuntu Linux 18.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-18.04_1.33.1.zip) 
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.33.1.zip) 
 
 #### Links China:
 
@@ -1133,10 +1133,10 @@ Bugfixes
 - Fix Nicolay cable not always detected on OSX and Linux
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.32.1.exe) 
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.32.1.zip) 
-- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.32.1.zip) 
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.32.1.zip) 
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.32.1.exe) 
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.32.1.zip) 
+- [Ubuntu Linux 18.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-18.04_1.32.1.zip) 
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.32.1.zip) 
 
 #### Links China:
 
@@ -1162,10 +1162,10 @@ Bugfixes:
 - Fix reset timeline button
 
 #### Links:
-- [Windows](https://sensirion-control-center.azureedge.net/control-center/ControlCenter%20Setup%201.31.1.exe) 
-- [MacOS](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_OSX_1.31.1.zip) 
-- [Ubuntu Linux 18.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-18.04_1.31.1.zip) 
-- [Ubuntu Linux 20.04](https://sensirion-control-center.azureedge.net/control-center/ControlCenter_Ubuntu-20.04_1.31.1.zip) 
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.31.1.exe) 
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.31.1.zip) 
+- [Ubuntu Linux 18.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-18.04_1.31.1.zip) 
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.31.1.zip) 
 
 #### Links China:
 
