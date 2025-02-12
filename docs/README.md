@@ -136,6 +136,8 @@ The following Sensor Models are supported by the latest Software release:
 |                        | SVM3x     | No                    |         |
 |                        | SEN4x     | Yes                   |         |
 |                        | SEN5x     | Yes                   |         |
+|                        | SEN63c    | Yes                   |         |
+|                        | SEN65     | Yes                   |         |
 |                        | SEN66     | Yes                   |         |
 |                        | SEN68     | Yes                   |         |
 |                        | SVM4x     | No                    |         |
@@ -796,6 +798,32 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 # Appendix
 
 ## ControlCenter Releases & Changelog
+
+### Version 1.45
+
+#### Changelog
+
+Features
+- Add support for SEN63C (Firmware 4.0)
+- Add support for SEN65 (Firmware 4.0)
+
+Bugfixes
+- Fix crash on SGP4x settings
+- Fix bug creating duplicate log entries when custom plots are restored
+- SEN6x: do not allow to change altitude during measurement
+- Fix deprecated ControlCenter update links
+
+#### Links:
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.45.0.exe)
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.45.0.zip)
+- [Ubuntu Linux 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.45.0.zip)
+- [Ubuntu Linux 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.45.0.zip)
+
+#### Links China:
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.45.0.exe)
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.45.0.zip)
+- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.45.0.zip)
+- [Ubuntu Linux 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.45.0.zip)
 
 ### Version 1.44
 
