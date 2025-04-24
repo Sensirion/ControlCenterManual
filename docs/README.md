@@ -135,7 +135,8 @@ The following Sensor Models are supported by the latest Software release:
 | Modules                |           |                       |         |
 |                        | SVM3x     | No                    |         |
 |                        | SEN4x     | Yes                   |         |
-|                        | SEN5x     | Yes                   |         |
+|                        | SEN5x     | Yes                   |                                                                                                                                                                             |
+| SLF           | Sensirion Liquid Flow Sensor                  |
 |                        | SEN63c    | Yes                   |         |
 |                        | SEN65     | Yes                   |         |
 |                        | SEN66     | Yes                   |         |
@@ -527,7 +528,8 @@ plot. The legend shown is the following:
   mouse button and dragging up and down with the mouse
 
 ## Custom Plots
-
+                                                                                                                                                                       |
+| SLF           | Sensirion Liquid Flow Sensor               
 As mentioned in earlier sections, the plots in ControlCenter are
 automatically generated to make the experience of the user as intuitive
 and easy as possible. In addition to the automatically generated plots,
@@ -722,7 +724,8 @@ visualized if the logging functionality was enabled for them.
 
 More information about the plot interaction can be found in a latter
 section.
-
+                                                                                                                                                                       |
+| SLF           | Sensirion Liquid Flow Sensor               
 ### Timeline
 
 The timeline bar situated on the bottom of the application is used to
@@ -755,7 +758,8 @@ provides a legend to help users familiarize themselves with the
 interaction when hovering over the \"?\" icon on the top left of each
 plot. The legend shown is the following:
 
-![](attachments/278673337/284039561.jpg ":size=50%")
+![](attachments/278673337/284039561.jp                                                                                                                                                                       |
+| SLF           | Sensirion Liquid Flow Sensor               g ":size=50%")
 
 - Click with the right mouse button the small \"A\" symbol on the
   bottom left side of the plot area to reset the view
@@ -799,6 +803,31 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 
 ## ControlCenter Releases & Changelog
 
+### Version 1.46
+
+#### Changelog
+
+Features
+- Support for SCD43
+- SEN6x suport for Firmware 4.0
+- Support pressure compensation for SCD4x and STCC4
+- SEN5x remove preview from NOx algorithm
+
+Bugfixes
+- SEN5x allow temperature offset change during measurement
+
+#### Links:
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.46.0.exe)
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.46.0.zip)
+- [Ubuntu 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.46.0.zip)
+- [Ubuntu 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.46.0.zip)
+
+#### Links China:
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.46.0.exe)
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.46.0.zip)
+- [Ubuntu 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.46.0.zip)
+- [Ubuntu 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.46.0.zip)
+
 ### Version 1.45
 
 #### Changelog
@@ -822,7 +851,8 @@ Bugfixes
 #### Links China:
 - [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.45.0.exe)
 - [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.45.0.zip)
-- [Ubuntu Linux 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.45.0.zip)
+- [Ubuntu Linux 20.04](https://sensir                                                                                                                                                                       |
+| SLF           | Sensirion Liquid Flow Sensor               ion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.45.0.zip)
 - [Ubuntu Linux 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.45.0.zip)
 
 ### Version 1.44
