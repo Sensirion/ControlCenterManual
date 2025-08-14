@@ -803,6 +803,27 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 
 ## ControlCenter Releases & Changelog
 
+### Version 1.47
+
+#### Changelog
+
+Features
+- Support for SEN6x STAR-engine tuning in DataViewer
+- Signed .dmg installation for MacOS
+
+
+#### Links:
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.47.0.exe)
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.47.0.zip)
+- [Ubuntu 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.47.0.zip)
+- [Ubuntu 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.47.0.zip)
+
+#### Links China:
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.47.0.exe)
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.47.0.zip)
+- [Ubuntu 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.47.0.zip)
+- [Ubuntu 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.47.0.zip)
+
 ### Version 1.46
 
 #### Changelog
@@ -817,16 +838,16 @@ Bugfixes
 - SEN5x allow temperature offset change during measurement
 
 #### Links:
-- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.46.0.exe)
-- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.46.0.zip)
-- [Ubuntu 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.46.0.zip)
-- [Ubuntu 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.46.0.zip)
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.46.1.exe)
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.46.1.zip)
+- [Ubuntu 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.46.1.zip)
+- [Ubuntu 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.46.1.zip)
 
 #### Links China:
-- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.46.0.exe)
-- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.46.0.zip)
-- [Ubuntu 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.46.0.zip)
-- [Ubuntu 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.46.0.zip)
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.46.1.exe)
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.46.1.zip)
+- [Ubuntu 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.46.1.zip)
+- [Ubuntu 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.46.1.zip)
 
 ### Version 1.45
 
