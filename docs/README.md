@@ -136,7 +136,6 @@ The following Sensor Models are supported by the latest Software release:
 |                        | SVM3x     | No                    |         |
 |                        | SEN4x     | Yes                   |         |
 |                        | SEN5x     | Yes                   |                                                                                                                                                                             |
-| SLF           | Sensirion Liquid Flow Sensor                  |
 |                        | SEN63c    | Yes                   |         |
 |                        | SEN65     | Yes                   |         |
 |                        | SEN66     | Yes                   |         |
