@@ -802,6 +802,31 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 
 ## ControlCenter Releases & Changelog
 
+### Version 1.48
+
+#### Changelog
+
+Features
+- Support for SFM3505-CO2
+
+Bugfixes
+- Fixed SFM3505 O2 refresh behavior
+- Added error messages when sensor initialization fails
+
+
+#### Links:
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.48.0.exe)
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.48.0.zip)
+- [Ubuntu 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.48.0.zip)
+- [Ubuntu 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.48.0.zip)
+
+#### Links China:
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.48.0.exe)
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.48.0.zip)
+- [Ubuntu 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.48.0.zip)
+- [Ubuntu 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.48.0.zip)
+
+
 ### Version 1.47
 
 #### Changelog
