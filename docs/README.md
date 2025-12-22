@@ -802,6 +802,34 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 
 ## ControlCenter Releases & Changelog
 
+### Version 1.49
+
+#### Changelog
+
+Features
+- Added manual RHT compensation support for STC4x
+- Added warning message for  SensorBridge power limitations.
+- Added support for Factory Reset, Testing Mode and Conditioning for STCC4
+
+Bugfixes
+- Fixed STCC4 FRC in single-shot mode
+- Fix visibility being reset in DataViewer on tab change
+- Fix performance issue in DataViewer with line width > 1
+
+
+#### Links:
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.49.0.exe)
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.49.0.zip)
+- [Ubuntu 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.49.0.zip)
+- [Ubuntu 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.49.0.zip)
+
+#### Links China:
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.49.0.exe)
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.49.0.zip)
+- [Ubuntu 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.49.0.zip)
+- [Ubuntu 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.49.0.zip)
+
+
 ### Version 1.48
 
 #### Changelog
