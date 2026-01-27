@@ -141,6 +141,9 @@ The following Sensor Models are supported by the latest Software release:
 |                        | SEN66     | Yes                   |         |
 |                        | SEN68     | Yes                   |         |
 |                        | SVM4x     | No                    |         |
+|A2L Refrigerants        |           |                       |         |
+|                        | SGD43s    | No                    |         |
+|                        | SGD41     | No                    |         |
 
 ## Required Hardware
 
