@@ -805,6 +805,29 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 
 ## ControlCenter Releases & Changelog
 
+### Version 1.50.0
+
+#### Changelog
+
+Features
+- Added setting to perform CO2 sensor factory reset for SEN6x
+- Added support for SGD48S
+- Added support for SCD53
+- Added support for SEN69C
+
+#### Links:
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.50.0.exe)
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.50.0.zip)
+- [Ubuntu 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.50.0.zip)
+- [Ubuntu 20.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-20.04_1.50.0.zip)
+
+#### Links China:
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.50.0.exe)
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.50.0.zip)
+- [Ubuntu 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.50.0.zip)
+- [Ubuntu 20.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-20.04_1.50.0.zip)
+
+
 ### Version 1.49.1
 
 #### Changelog
