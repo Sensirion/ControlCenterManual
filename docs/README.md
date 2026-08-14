@@ -131,9 +131,7 @@ The following Sensor Models are supported by the latest Software release:
 |                        | LD20-2600B    | No                |         |
 |                        | LD20-0600L    | No                |         |
 |                        | SLD3P-0400DM  | No                |         |
-|                        | SWT50i    | No                    |         |
 | Modules                |           |                       |         |
-|                        | SVM3x     | No                    |         |
 |                        | SEN4x     | Yes                   |         |
 |                        | SEN5x     | Yes                   |                                                                                                                                                                             |
 |                        | SEN63c    | Yes                   |         |
