@@ -803,6 +803,33 @@ Applications](https://sensirion.com/media/documents/9F289B95/6294DFFC/Info_Note_
 
 ## ControlCenter Releases & Changelog
 
+### Version 1.51.0
+
+#### Changelog
+
+Features
+- Added support for changing sampling rate for STC42A
+- Added possibility to restore to default configuration if a custom one was imported
+- Added support Ubuntu 24.04 and dropped support for Ubuntu 20.04
+- Updated support for SCD53
+- Removed support for SVM30
+- Updated support links
+
+Bugfixes
+- Fixed memory leak when doing long measurements
+
+#### Links:
+- [Windows](https://control-center.sensirion.com/control-center/ControlCenter%20Setup%201.51.0.exe)
+- [MacOS](https://control-center.sensirion.com/control-center/ControlCenter_OSX_1.51.0.zip)
+- [Ubuntu 24.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-24.04_1.51.0.zip)
+- [Ubuntu 22.04](https://control-center.sensirion.com/control-center/ControlCenter_Ubuntu-22.04_1.51.0.zip)
+
+#### Links China:
+- [Windows](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter%20Setup%201.51.0.exe)
+- [MacOS](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_OSX_1.51.0.zip)
+- [Ubuntu 24.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-24.04_1.51.0.zip)
+- [Ubuntu 22.04](https://sensirion-mso.s3.cn-north-1.amazonaws.com.cn/cc/release/ControlCenter_Ubuntu-22.04_1.51.0.zip)
+
 ### Version 1.50.0
 
 #### Changelog
